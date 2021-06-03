@@ -10,3 +10,9 @@ insert into proyecto.deudas values (3, 'bancolombia', 700000, 36, 19, '01-09-200
 insert into proyecto.deudas values (4, 'banco davivienda', 400000, 36, 19, '01-09-2001', '01-09-2004');
 insert into proyecto.deudas values (5, 'banco de bogota', 300000, 36, 19, '01-09-2001', '01-09-2004');
 
+insert into proyecto.ayuda values (1, 1, 'consejo', 'opinion');
+insert into proyecto.ayuda values (2, 2, 'consejo', 'opinion');
+insert into proyecto.ayuda values (3, 3, 'consejo', 'opinion');
+insert into proyecto.ayuda values (4, 4, 'consejo', 'opinion');
+insert into proyecto.ayuda values (5, 5, 'consejo', 'opinion');
+
