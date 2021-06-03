@@ -15,3 +15,9 @@ insert into proyecto.ingresos values (2, 2, 2, 454000, 654000);
 insert into proyecto.ingresos values (3, 3, 3, 454000, 454000);
 insert into proyecto.ingresos values (4, 4, 4, 454000, 504000);
 insert into proyecto.ingresos values (5, 5, 5, 454000, 524000);
+
+insert into proyecto.usuario values (1, 1, 'Manuel Fernando', 'Romero Suarez', '1998-06-29', 22, 2);
+insert into proyecto.usuario values (2, 2, 'Luis Eduardo', 'Jimenez Cangrejo', '1993-09-19', 27, 1);
+insert into proyecto.usuario values (3, 3, 'Oscar Mauricio', 'Ramirez Narvaez', '1993-11-07', 27, 2);
+insert into proyecto.usuario values (4, 4, 'Manuel Fernando', 'Romero Suarez', '1998-06-29', 22, 2);
+insert into proyecto.usuario values (5, 5, 'Smith lorena', 'Diaz Garcia', '1993-10-06', 27, 1);
