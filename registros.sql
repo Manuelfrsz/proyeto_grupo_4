@@ -45,3 +45,9 @@ insert into proyecto.ingresos_gastos values(2, 2, 2, 254000);
 insert into proyecto.ingresos_gastos values(3, 3, 3, -46000);
 insert into proyecto.ingresos_gastos values(4, 4, 4, 156000);
 insert into proyecto.ingresos_gastos values(5, 5, 5, 458000);
+
+insert into proyecto.calendario values(1, 1, 1, '2021-06-28', '2021-06-25');
+insert into proyecto.calendario values(2, 2, 2, '2021-07-12', '2021-06-25');
+insert into proyecto.calendario values(3, 3, 3, '2021-06-20', '2021-06-25');
+insert into proyecto.calendario values(4, 4, 4, '2021-08-10', '2021-06-30');
+insert into proyecto.calendario values(5, 5, 5, '2021-06-23', '2021-06-30');
