@@ -119,4 +119,7 @@ create table proyecto.ayuda(
 	opinion varchar (500) null,
 	constraint pk_ayuda primary key(id),
 	constraint fk_user_ayud foreign key(id_user) references proyecto.system_user1(id)
-);
+):
+
+
+insert into proyecto.ingresos_ocasionales(nombre_ingreso, frecuencia, cantidad ) values( 'extra', 1, 500000);
