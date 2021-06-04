@@ -39,3 +39,9 @@ insert into proyecto.gastos values(2, 2, 2, 'servicios', 400000, 400000);
 insert into proyecto.gastos values(3, 3, 3, 'mercado', 500000, 500000);
 insert into proyecto.gastos values(4, 4, 4, 'pasajes', 340000, 340000);
 insert into proyecto.gastos values(5, 5, 5, 'administracion', 460000, 46000);
+
+insert into proyecto.ingresos_gastos values(1, 1, 1, 554000);
+insert into proyecto.ingresos_gastos values(2, 2, 2, 254000);
+insert into proyecto.ingresos_gastos values(3, 3, 3, -46000);
+insert into proyecto.ingresos_gastos values(4, 4, 4, 156000);
+insert into proyecto.ingresos_gastos values(5, 5, 5, 458000);
